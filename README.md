@@ -6,5 +6,3 @@ Step 2: Debug project
 Step 3: Run Project
 
 Github Link: https://github.com/kgantsho168/Part1
-
-![Screenshot!]()
